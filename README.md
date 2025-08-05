@@ -5,19 +5,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
 </div>
 
-<h1 align="center">Olá 👋, Eu sou {SEU-NOME-AQUI}</h1>
-<h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<h1 align="center">Olá 👋, Eu sou {Roger}</h1>
+<h3 align="center">{Estudante de Engenharia de Software} residente em {Teresina-PI}/{Brasil}.</h3>
+<p align="center">{Sou estudante de Engenharia de Software (2º período) com grande interesse pelas áreas de backend e análise de dados. Tenho aprendido fundamentos importantes como lógica de programação, algoritmos, modelos de software, além de ter conhecimentos iniciais em Python e SQL.
+
+Busco uma oportunidade de estágio para aplicar esses conhecimentos, aprender com profissionais experientes e contribuir com entusiasmo e dedicação. Tenho facilidade de aprendizado, gosto de trabalhar em equipe e estou sempre em busca de novos desafios e evolução constante.}</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
 > _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
+- 🔭 Atualmente, eu estudo no [Centro Universitário Santo Agostinho](https://site-da-empresa.com/).
 
-- 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
+- 🌱 Meus estudos atuais focam em **Back End (Python)** e **Análise de dados (SQL, Pandas)**.
 
-- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
+- 📫 Este é meu e-mail para contato: **rogeroliveirafeitosa@gmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>

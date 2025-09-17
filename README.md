@@ -6,8 +6,8 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou Roger</h1>
-<h3 align="center">Estudante de Engenharia de Software em Teresina-PI/Brasil.</h3>
-<p align="center">Estou no curso de Engenharia de Software (2º período) com grande interesse pelas áreas de backend e análise de dados. Tenho aprendido fundamentos importantes como lógica de programação, algoritmos, modelos de software, além de ter conhecimentos iniciais em Python e SQL.
+<h3 align="center">Estudante de Engenharia de Software.</h3>
+<p align="center">Estou no curso de Engenharia de Software com grande interesse pelas áreas de backend e análise de dados. Tenho aprendido fundamentos importantes como lógica de programação, algoritmos, modelos de software, além de ter conhecimentos iniciais em Python e SQL.
 
 Busco uma oportunidade de estágio para aplicar esses conhecimentos, aprender com profissionais experientes e contribuir com entusiasmo e dedicação. Tenho facilidade de aprendizado, gosto de trabalhar em equipe e estou sempre em busca de novos desafios e evolução constante.</p>
 

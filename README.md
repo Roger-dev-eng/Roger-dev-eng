@@ -7,20 +7,20 @@
 
 <h1 align="center">Olá 👋, Eu sou Roger</h1>
 <h3 align="center">Estudante de Engenharia de Software.</h3>
-<p align="center">Estou no curso de Engenharia de Software com grande interesse pelas áreas de backend e análise de dados. Tenho aprendido fundamentos importantes como lógica de programação, algoritmos, modelos de software, além de ter conhecimentos iniciais em Python e SQL.
+<p align="center">Estou no curso de Engenharia de Software com grande interesse pelas áreas de backend, machine learning e dados. Tenho aprendido fundamentos importantes como lógica de programação, algoritmos, modelos de software, além de ter conhecimentos sólidos em Python e SQL.
 
 Busco uma oportunidade de estágio para aplicar esses conhecimentos, aprender com profissionais experientes e contribuir com entusiasmo e dedicação. Tenho facilidade de aprendizado, gosto de trabalhar em equipe e estou sempre em busca de novos desafios e evolução constante.</p>
 
 - 🔭 Atualmente, eu estudo no Centro Universitário Santo Agostinho.
 
-- 🌱 Meus estudos atuais focam em **Back End (Python)** e **Análise de dados (SQL, Pandas)**.
+- 🌱 Meus estudos atuais focam em **Back End (Python)**, **Machine Learning (Azure)** e **Análise de dados (SQL, Pandas)**.
 
 - 📫 Este é meu e-mail para contato: **rogeroliveirafeitosa@gmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=github,py,sqlite,vscode)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=py,sqlite,github,vscode,azure)]()
 
 <h3 align="left">Entre em contato comigo:</h3>
 

@@ -19,36 +19,33 @@ Abaixo estão os três principais projetos que representam o que venho estudando
 
 ---
 
-## 1. ChatBot com Azure Language Studio  
-**Repositório:**  
-https://github.com/Roger-dev-eng/dio-ChatBot
+## 1. ChatBot com API da Groq  
+[**Repositório**](https://github.com/Roger-dev-eng/ChatBot)
 
 **Descrição:**  
-Assistente baseado em IA utilizando o Azure Language Studio, projetado para responder perguntas, analisar textos e realizar interações guiadas via fluxo de intenções.
+Assistente baseado em IA utilizando a API da Groq, projetado para responder perguntas, analisar textos e realizar interações guiadas via fluxo de intenções.
 
-**Tecnologias:** Azure Cognitive Services, Python, NLP
+**Tecnologias:** Flask, CSS, HTML, Python, Javascript
 
 ---
 
 ## 2. Cadastro de Veículos com Pipeline de Dados FIPE  
-**Repositório:**  
-https://github.com/Roger-dev-eng/cadastro-de-veiculos-pipeline-de-dados-FIPE
+[**Repositório**](https://github.com/Roger-dev-eng/cadastro-de-veiculos-pipeline-de-dados-FIPE)
 
 **Descrição:**  
-Sistema completo de cadastro e consulta de veículos com integração à tabela FIPE, incluindo pipeline automático de importação e manipulação de dados.
+Sistema que usa a API FIPE, em uma pipeline completa e automática de extração, limpeza e análise de dados. 
 
 **Tecnologias:** Python, PostgreSQL, SQLAlchemy, Pipelines de Dados
 
 ---
 
-## 3. Machine Learning – Projetos do Bootcamp  
-**Repositório:**  
-https://github.com/Roger-dev-eng/machine-learning-DIO
+## 3. Machine Learning – Verificação de fraude bancária 
+[**Repositório**](https://github.com/Roger-dev-eng/Credit-Card-Fraud-Detection)
 
 **Descrição:**  
-Projetos e experimentos práticos envolvendo algoritmos de Machine Learning, análise exploratória, treinamento de modelos e métricas de performance.
+Projeto de machine learning para classificação de transações fraudulentas em um dataset altamente desbalanceado, focado na accuracy, usando matriz de confusão, ROC/PR AUC e ajuste de threshold, com otimização baseada em Recall e F2-score.
 
-**Tecnologias:** Python, Scikit-Learn, Jupyter Notebook
+**Tecnologias:** Python, Scikit-Learn, Machine Learning
 
 ---
 

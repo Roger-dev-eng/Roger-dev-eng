@@ -61,7 +61,11 @@ Aplicação web para gerenciar jogos, jogadores, plataformas e avaliações. Int
 
 # Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=py,sqlite,postgres,github,vscode,azure,aws,git,linux)]()
+![Linguagens e frameworks](https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,nodejs&perline=7)
+
+![Bancos de dados e nuvem](https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase,azure,aws,cloudflare&perline=7)
+
+![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=docker,git,github,vscode,linux,npm,pnpm&perline=7)
 
 ---
 

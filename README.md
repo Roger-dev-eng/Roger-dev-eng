@@ -10,42 +10,42 @@
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
 <p align="left">
-Sou estudante de Engenharia de Software, com interesse em backend, machine learning e análise de dados. Tenho avançado nos fundamentos de lógica, algoritmos e modelagem, além de possuir conhecimentos sólidos em Python e SQL. Busco oportunidades para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com dedicação e evolução constante.
+Sou Roger, estudante de Engenharia de Software com foco em desenvolvimento backend, dados e inteligência artificial. Uso Python e SQL para criar aplicações, integrar APIs e transformar dados em informações úteis. Nos meus projetos, exploro desde pipelines de dados e dashboards até chatbots com IA e modelos de machine learning. Busco uma oportunidade para contribuir com esses conhecimentos, aprender em equipe e evoluir como desenvolvedor.
 </p>
 
 # Meus Projetos
 
-Abaixo estão os três principais projetos que representam o que venho estudando e desenvolvendo:
+Projetos em que coloco meus estudos em prática, conectando desenvolvimento backend, engenharia de dados e inteligência artificial:
 
 ---
 
-## 1. ChatBot com API da Groq  
+## 1. Chatbot com IA e RAG  
 [**Repositório**](https://github.com/Roger-dev-eng/ChatBot)
 
 **Descrição:**  
-Assistente baseado em IA utilizando a API da Groq, projetado para responder perguntas, analisar textos e realizar interações guiadas via fluxo de intenções.
+Aplicação de chat com IA generativa, desenvolvida com Flask e integrada à API da Groq. Permite conversar com o modelo e enviar documentos para fazer perguntas sobre o conteúdo, usando uma abordagem simples de RAG. Reúne integração com APIs, processamento de arquivos e uma interface web responsiva.
 
-**Tecnologias:** Flask, CSS, HTML, Python, Javascript
+**Tecnologias:** Python, Flask, API da Groq, HTML, CSS e JavaScript
 
 ---
 
-## 2. Cadastro de Veículos com Pipeline de Dados FIPE  
-[**Repositório**](https://github.com/Roger-dev-eng/cadastro-de-veiculos-pipeline-de-dados-FIPE)
+## 2. Pipeline de Dados FIPE e Dashboard Interativo  
+[**Repositório**](https://github.com/Roger-dev-eng/pipeline-de-dados-FIPE)
 
 **Descrição:**  
-Sistema que usa a API FIPE, em uma pipeline completa e automática de extração, limpeza e análise de dados. 
+Pipeline que coleta dados de veículos da API FIPE, valida e padroniza os registros e os armazena em PostgreSQL, evitando duplicidades. Um dashboard em Streamlit permite executar a coleta, acompanhar o progresso e explorar preços por marca, ano e combustível. O projeto também inclui execução local com Docker e publicação no Render com banco no Supabase. 
 
-**Tecnologias:** Python, PostgreSQL, SQLAlchemy, Pipelines de Dados
+**Tecnologias:** Python, PostgreSQL, SQLAlchemy, Pandas, Streamlit, Plotly e Docker
 
 ---
 
-## 3. Machine Learning – Verificação de fraude bancária 
+## 3. Machine Learning — Detecção de Fraudes em Cartões 
 [**Repositório**](https://github.com/Roger-dev-eng/Credit-Card-Fraud-Detection)
 
 **Descrição:**  
-Projeto de machine learning para classificação de transações fraudulentas em um dataset altamente desbalanceado, focado na accuracy, usando matriz de confusão, ROC/PR AUC e ajuste de threshold, com otimização baseada em Recall e F2-score.
+Modelo de classificação para identificar fraudes em transações de cartão de crédito em um conjunto de dados altamente desbalanceado. O projeto prioriza a identificação de fraudes com foco em recall, ajustando o limiar de decisão com F2-score e avaliando o desempenho com ROC AUC e PR AUC. Inclui validação cruzada opcional e exportação do modelo treinado e das métricas.
 
-**Tecnologias:** Python, Scikit-Learn, Machine Learning
+**Tecnologias:** Python, Scikit-learn, Pandas, NumPy e Joblib
 
 ---
 

@@ -10,7 +10,7 @@
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
 <p align="left">
-Sou Roger, estudante de Engenharia de Software com foco em desenvolvimento backend, dados e inteligência artificial. Uso Python e SQL para criar aplicações, integrar APIs e transformar dados em informações úteis. Nos meus projetos, exploro desde pipelines de dados e dashboards até chatbots com IA e modelos de machine learning. Busco uma oportunidade para contribuir com esses conhecimentos, aprender em equipe e evoluir como desenvolvedor.
+Sou Roger, estudante de Engenharia de Software com foco em desenvolvimento backend, dados e inteligência artificial. Uso Python e SQL para criar aplicações, integrar APIs e transformar dados em informações úteis. Também tenho conhecimentos em computação em nuvem com Microsoft Azure e Amazon Web Services (AWS). Nos meus projetos, exploro pipelines de dados, dashboards, chatbots com IA e aplicações web. Busco uma oportunidade para contribuir com esses conhecimentos, aprender em equipe e evoluir como desenvolvedor.
 </p>
 
 # Meus Projetos
@@ -39,19 +39,29 @@ Pipeline que coleta dados de veículos da API FIPE, valida e padroniza os regist
 
 ---
 
-## 3. Machine Learning — Detecção de Fraudes em Cartões 
-[**Repositório**](https://github.com/Roger-dev-eng/Credit-Card-Fraud-Detection)
+## 3. DigitalScope — Exposição Digital
+[**Repositório**](https://github.com/Roger-dev-eng/DigitalScope-Digital-Exposure)
 
 **Descrição:**  
-Modelo de classificação para identificar fraudes em transações de cartão de crédito em um conjunto de dados altamente desbalanceado. O projeto prioriza a identificação de fraudes com foco em recall, ajustando o limiar de decisão com F2-score e avaliando o desempenho com ROC AUC e PR AUC. Inclui validação cruzada opcional e exportação do modelo treinado e das métricas.
+Dashboard que consulta sinais de exposição de um e-mail em vazamentos de dados por meio da API XposedOrNot. Apresenta incidentes, categorias de dados expostos, alertas e recomendações com base nas evidências retornadas. Desenvolvido com foco em privacidade, inclui validação de e-mail, cache temporário e limites de consulta, com publicação no Cloudflare Workers.
 
-**Tecnologias:** Python, Scikit-learn, Pandas, NumPy e Joblib
+**Tecnologias:** Python, FastAPI, Pydantic, HTTPX, HTML, CSS, JavaScript e Cloudflare Workers
+
+---
+
+## 4. Gametrail — Gerenciamento de Jogos
+[**Repositório**](https://github.com/Roger-dev-eng/Gametrail)
+
+**Descrição:**  
+Aplicação web para gerenciar jogos, jogadores, plataformas e avaliações. Integra o catálogo IGDB para pesquisar jogos e importar seus dados e capas, além de oferecer consultas SQL e um dashboard com rankings, notas e horas jogadas. Utiliza PostgreSQL no Supabase, cache compartilhado com Redis e uma API publicada no Cloudflare Workers.
+
+**Tecnologias:** JavaScript, HTML, CSS, PostgreSQL, Supabase, Redis, Cloudflare Workers, Hyperdrive e API IGDB
 
 ---
 
 # Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=py,sqlite,postgres,github,vscode,azure,git,linux)]()
+[![Skills](https://skillicons.dev/icons?i=py,sqlite,postgres,github,vscode,azure,aws,git,linux)]()
 
 ---
 

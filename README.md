@@ -15,7 +15,7 @@ Sou estudante de Engenharia de Software, com interesse em backend, machine learn
 
 # Meus Projetos
 
-Abaixo estão os três principais projetos que representam o que venho estudando e desenvolvendo:
+Abaixo estão alguns dos projetos que representam o que venho estudando e desenvolvendo:
 
 ---
 
@@ -49,9 +49,31 @@ Projeto de machine learning para classificação de transações fraudulentas em
 
 ---
 
+## 4. iAssistance – Assistente de IA para Windows
+[**Repositório**](https://github.com/Roger-dev-eng/AI-assistant) · [**Download**](https://github.com/Roger-dev-eng/AI-assistant/releases/latest)
+
+**Descrição:**
+
+Assistente desktop que recebe comandos por texto ou voz em português e inglês para automatizar tarefas no Windows. Combina comandos locais, integração com Amazon Bedrock, reconhecimento e síntese de voz, automação do navegador e geração de documentos, com confirmação para ações sensíveis.
+
+**Tecnologias:** Python, PySide6, Amazon Bedrock, Amazon Nova 2 Sonic, faster-whisper, Piper, Playwright, SQLite
+
+---
+
+## 5. Credit Bank – Gestão de Crédito
+[**Repositório**](https://github.com/Roger-dev-eng/Credit_bank) · [**Download**](https://github.com/Roger-dev-eng/Credit_bank/releases/latest)
+
+**Descrição:**
+
+Aplicativo desktop para Windows que funciona offline e permite cadastrar clientes, simular operações de crédito, acompanhar contratos e registrar recebimentos. Inclui histórico de pagamentos, estornos, antecipações, extratos em PDF e backups, com dados armazenados localmente em SQLite.
+
+**Tecnologias:** Java 21, Spring Boot, React, TypeScript, Tauri 2, Rust, SQLite, Flyway, Tailwind CSS
+
+---
+
 # Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=py,sqlite,postgres,github,vscode,azure,git,linux)]()
+[![Skills](https://skillicons.dev/icons?i=py,java,spring,react,ts,rust,tauri,tailwind,sqlite,postgres,aws,github,vscode,azure,git,linux)]()
 
 ---
 

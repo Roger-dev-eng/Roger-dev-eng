@@ -15,12 +15,6 @@ Sou Roger, estudante de Engenharia de Software com foco em desenvolvimento backe
 
 # Meus Projetos
 
-<<<<<<< HEAD
-Abaixo estão alguns dos projetos que representam o que venho estudando e desenvolvendo:
-=======
-Projetos em que coloco meus estudos em prática, conectando desenvolvimento backend, engenharia de dados e inteligência artificial:
->>>>>>> 432e83aebacf7f753ecb6faa0800c052825270c5
-
 ---
 
 ## 1. Chatbot com IA e RAG  
@@ -87,15 +81,12 @@ Aplicativo desktop para Windows que funciona offline e permite cadastrar cliente
 
 # Linguagens e Ferramentas
 
-<<<<<<< HEAD
+
 [![Skills](https://skillicons.dev/icons?i=py,java,spring,react,ts,rust,tauri,tailwind,sqlite,postgres,aws,github,vscode,azure,git,linux)]()
-=======
 ![Linguagens e frameworks](https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,nodejs&perline=7)
-
 ![Bancos de dados e nuvem](https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase,azure,aws,cloudflare&perline=7)
-
 ![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=docker,git,github,vscode,linux,npm,pnpm&perline=7)
->>>>>>> 432e83aebacf7f753ecb6faa0800c052825270c5
+
 
 ---
 

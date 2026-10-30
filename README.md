@@ -10,42 +10,56 @@
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
 <p align="left">
-Sou estudante de Engenharia de Software, com interesse em backend, machine learning e análise de dados. Tenho avançado nos fundamentos de lógica, algoritmos e modelagem, além de possuir conhecimentos sólidos em Python e SQL. Busco oportunidades para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com dedicação e evolução constante.
+Sou Roger, estudante de Engenharia de Software com foco em desenvolvimento backend, dados e inteligência artificial. Uso Python e SQL para criar aplicações, integrar APIs e transformar dados em informações úteis. Também tenho conhecimentos em computação em nuvem com Microsoft Azure e Amazon Web Services (AWS). Nos meus projetos, exploro pipelines de dados, dashboards, chatbots com IA e aplicações web. Busco uma oportunidade para contribuir com esses conhecimentos, aprender em equipe e evoluir como desenvolvedor.
 </p>
 
 # Meus Projetos
 
+<<<<<<< HEAD
 Abaixo estão alguns dos projetos que representam o que venho estudando e desenvolvendo:
+=======
+Projetos em que coloco meus estudos em prática, conectando desenvolvimento backend, engenharia de dados e inteligência artificial:
+>>>>>>> 432e83aebacf7f753ecb6faa0800c052825270c5
 
 ---
 
-## 1. ChatBot com API da Groq  
+## 1. Chatbot com IA e RAG  
 [**Repositório**](https://github.com/Roger-dev-eng/ChatBot)
 
 **Descrição:**  
-Assistente baseado em IA utilizando a API da Groq, projetado para responder perguntas, analisar textos e realizar interações guiadas via fluxo de intenções.
+Aplicação de chat com IA generativa, desenvolvida com Flask e integrada à API da Groq. Permite conversar com o modelo e enviar documentos para fazer perguntas sobre o conteúdo, usando uma abordagem simples de RAG. Reúne integração com APIs, processamento de arquivos e uma interface web responsiva.
 
-**Tecnologias:** Flask, CSS, HTML, Python, Javascript
-
----
-
-## 2. Cadastro de Veículos com Pipeline de Dados FIPE  
-[**Repositório**](https://github.com/Roger-dev-eng/cadastro-de-veiculos-pipeline-de-dados-FIPE)
-
-**Descrição:**  
-Sistema que usa a API FIPE, em uma pipeline completa e automática de extração, limpeza e análise de dados. 
-
-**Tecnologias:** Python, PostgreSQL, SQLAlchemy, Pipelines de Dados
+**Tecnologias:** Python, Flask, API da Groq, HTML, CSS e JavaScript
 
 ---
 
-## 3. Machine Learning – Verificação de fraude bancária 
-[**Repositório**](https://github.com/Roger-dev-eng/Credit-Card-Fraud-Detection)
+## 2. Pipeline de Dados FIPE e Dashboard Interativo  
+[**Repositório**](https://github.com/Roger-dev-eng/pipeline-de-dados-FIPE)
 
 **Descrição:**  
-Projeto de machine learning para classificação de transações fraudulentas em um dataset altamente desbalanceado, focado na accuracy, usando matriz de confusão, ROC/PR AUC e ajuste de threshold, com otimização baseada em Recall e F2-score.
+Pipeline que coleta dados de veículos da API FIPE, valida e padroniza os registros e os armazena em PostgreSQL, evitando duplicidades. Um dashboard em Streamlit permite executar a coleta, acompanhar o progresso e explorar preços por marca, ano e combustível. O projeto também inclui execução local com Docker e publicação no Render com banco no Supabase. 
 
-**Tecnologias:** Python, Scikit-Learn, Machine Learning
+**Tecnologias:** Python, PostgreSQL, SQLAlchemy, Pandas, Streamlit, Plotly e Docker
+
+---
+
+## 3. DigitalScope — Exposição Digital
+[**Repositório**](https://github.com/Roger-dev-eng/DigitalScope-Digital-Exposure)
+
+**Descrição:**  
+Dashboard que consulta sinais de exposição de um e-mail em vazamentos de dados por meio da API XposedOrNot. Apresenta incidentes, categorias de dados expostos, alertas e recomendações com base nas evidências retornadas. Desenvolvido com foco em privacidade, inclui validação de e-mail, cache temporário e limites de consulta, com publicação no Cloudflare Workers.
+
+**Tecnologias:** Python, FastAPI, Pydantic, HTTPX, HTML, CSS, JavaScript e Cloudflare Workers
+
+---
+
+## 4. Gametrail — Gerenciamento de Jogos
+[**Repositório**](https://github.com/Roger-dev-eng/Gametrail)
+
+**Descrição:**  
+Aplicação web para gerenciar jogos, jogadores, plataformas e avaliações. Integra o catálogo IGDB para pesquisar jogos e importar seus dados e capas, além de oferecer consultas SQL e um dashboard com rankings, notas e horas jogadas. Utiliza PostgreSQL no Supabase, cache compartilhado com Redis e uma API publicada no Cloudflare Workers.
+
+**Tecnologias:** JavaScript, HTML, CSS, PostgreSQL, Supabase, Redis, Cloudflare Workers, Hyperdrive e API IGDB
 
 ---
 
@@ -73,7 +87,15 @@ Aplicativo desktop para Windows que funciona offline e permite cadastrar cliente
 
 # Linguagens e Ferramentas
 
+<<<<<<< HEAD
 [![Skills](https://skillicons.dev/icons?i=py,java,spring,react,ts,rust,tauri,tailwind,sqlite,postgres,aws,github,vscode,azure,git,linux)]()
+=======
+![Linguagens e frameworks](https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,nodejs&perline=7)
+
+![Bancos de dados e nuvem](https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase,azure,aws,cloudflare&perline=7)
+
+![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=docker,git,github,vscode,linux,npm,pnpm&perline=7)
+>>>>>>> 432e83aebacf7f753ecb6faa0800c052825270c5
 
 ---
 

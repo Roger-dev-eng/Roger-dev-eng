@@ -15,21 +15,18 @@ Sou Roger, estudante de Engenharia de Software com foco em desenvolvimento backe
 
 # Meus Projetos
 
-<<<<<<< HEAD
-Abaixo estão alguns dos projetos que representam o que venho estudando e desenvolvendo:
-=======
 Projetos em que coloco meus estudos em prática, conectando desenvolvimento backend, engenharia de dados e inteligência artificial:
->>>>>>> 432e83aebacf7f753ecb6faa0800c052825270c5
 
 ---
 
-## 1. Chatbot com IA e RAG  
-[**Repositório**](https://github.com/Roger-dev-eng/ChatBot)
+## 1. FloraStore — Catálogo de Plantas com IA
+[**Repositório**](https://github.com/Roger-dev-eng/FloraStore) · [**Acessar aplicação**](https://florastore.streamlit.app/)
 
-**Descrição:**  
-Aplicação de chat com IA generativa, desenvolvida com Flask e integrada à API da Groq. Permite conversar com o modelo e enviar documentos para fazer perguntas sobre o conteúdo, usando uma abordagem simples de RAG. Reúne integração com APIs, processamento de arquivos e uma interface web responsiva.
+**Descrição:**
 
-**Tecnologias:** Python, Flask, API da Groq, HTML, CSS e JavaScript
+Aplicação web para catálogo e pedidos de plantas. Permite pesquisar espécies, filtrar produtos, montar um carrinho e preparar o pedido pelo WhatsApp. Também inclui área administrativa, consulta de informações botânicas e um assistente com IA que usa busca vetorial para responder dúvidas sobre as plantas e a loja.
+
+**Tecnologias:** Python, Streamlit, Supabase, MongoDB, Redis, API da Groq, iNaturalist e RAG
 
 ---
 
@@ -63,7 +60,7 @@ Aplicação web para gerenciar jogos, jogadores, plataformas e avaliações. Int
 
 ---
 
-## 4. iAssistance – Assistente de IA para Windows
+## 5. iAssistance – Assistente de IA para Windows
 [**Repositório**](https://github.com/Roger-dev-eng/AI-assistant) · [**Download**](https://github.com/Roger-dev-eng/AI-assistant/releases/latest)
 
 **Descrição:**
@@ -74,7 +71,7 @@ Assistente desktop que recebe comandos por texto ou voz em português e inglês 
 
 ---
 
-## 5. Credit Bank – Gestão de Crédito
+## 6. Credit Bank – Gestão de Crédito
 [**Repositório**](https://github.com/Roger-dev-eng/Credit_bank) · [**Download**](https://github.com/Roger-dev-eng/Credit_bank/releases/latest)
 
 **Descrição:**
@@ -87,15 +84,11 @@ Aplicativo desktop para Windows que funciona offline e permite cadastrar cliente
 
 # Linguagens e Ferramentas
 
-<<<<<<< HEAD
-[![Skills](https://skillicons.dev/icons?i=py,java,spring,react,ts,rust,tauri,tailwind,sqlite,postgres,aws,github,vscode,azure,git,linux)]()
-=======
 ![Linguagens e frameworks](https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,nodejs&perline=7)
 
 ![Bancos de dados e nuvem](https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase,azure,aws,cloudflare&perline=7)
 
 ![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=docker,git,github,vscode,linux,npm,pnpm&perline=7)
->>>>>>> 432e83aebacf7f753ecb6faa0800c052825270c5
 
 ---
 
